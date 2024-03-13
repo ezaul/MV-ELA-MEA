@@ -46,7 +46,8 @@ Isso envia os dados para alternar o MVS Mini-Marquee usando sinais binários.
 Esquema da Placa Arduino
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/Arduino-Leonardo.jpeg)
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-01.jpg)
-Pinos que sera usados
+
+###Pinos que sera usados
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-02.jpg)
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-03.jpg)
 
@@ -84,7 +85,7 @@ Portanto, se nenhum bit for definido, o MVS Mini-Marquee 1 deverá estar aceso.
 
 ### Fita de LED
 
-![](https://github.com/ezaul/MV-ELA-MEA/images/mv-ela-mea-fitaled.jpg)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-fitaled.jpg)
 
 Optei por utilizar uma fita de LED ws2812b que trabalha em 5v, neste modelo de fita LED. Cade LED possui um chip que voce pode programar para ligar, desligar e mudar as cores com uma
 simples linha de dados que passa por cada led. Então fiz 4 tiras de 11 Leds em cada caixa para isso basta ligar:
