@@ -87,12 +87,13 @@ Portanto, se nenhum bit for definido, o MVS Mini-Marquee 1 deverá estar aceso.
 
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-fitaled.jpg)
 
-Optei por utilizar uma fita de LED ws2812b que trabalha em 5v, neste modelo de fita LED. Cade LED possui um chip que voce pode programar para ligar, desligar e mudar as cores com uma
+Optei por utilizar uma fita de LED ws2812b que trabalha em 5v, neste modelo de fita LED cada LED possui um chip que voce pode programar para ligar, desligar e mudar as cores com uma
 simples linha de dados que passa por cada led. Então fiz 4 tiras de 11 Leds em cada caixa para isso basta ligar:
-0-11  = Letreiro 1 
-11-22 = Letreiro 2
-22-33 = Letreiro 3
-33-44 = Letreiro 4
+
+- 0-11  = Letreiro 1 
+- 11-22 = Letreiro 2
+- 22-33 = Letreiro 3
+- 33-44 = Letreiro 4
 
 ### Video do Resultado
 
@@ -101,4 +102,3 @@ simples linha de dados que passa por cada led. Então fiz 4 tiras de 11 Leds em 
 ## [License](https://github.com/ezaul/MV-ELA-MEA/images/LICENSE.md)
 
 [Ezaul Zillmer](https://github.com/ezaul)
-
