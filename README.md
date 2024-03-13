@@ -23,18 +23,18 @@ resolvi tentar emular estas funções no Arduino.
 
 Hardware MVS:
 
-MV2
-MV2-01
-MV2B
-MV2F
-MV2FS
-MV4 (SLOT4)
-MV4F (SLOT4F)
-MV4FS (SLOT4FS)
-MV4FT (SLOT4FT)
-MV4FT2 (SLOT4FT)
-MV4FT3 (SLOT4FT)
-MV6 (SLOT6)
+- MV2
+- MV2-01
+- MV2B
+- MV2F
+- MV2FS
+- MV4 (SLOT4)
+- MV4F (SLOT4F)
+- MV4FS (SLOT4FS)
+- MV4FT (SLOT4FT)
+- MV4FT2 (SLOT4FT)
+- MV4FT3 (SLOT4FT)
+- MV6 (SLOT6)
 
 ### Este é um guia rápido de como isso funciona.
 
