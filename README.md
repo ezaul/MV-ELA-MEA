@@ -12,12 +12,17 @@
 Aqui segue a Foto 
 
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/Mv-ela_top.jpg)
-
+<table>
+<tr>
+<td>
 MV-ELA era placa externa fornecida com cabines MVS multi-slot originais para gerar alta tensão e comutá-la para a(s) placa(s) MV-ELC ou MV-ELD da marquise.
 Quanto voce seleciona o jogo ele ilumina o MVS Mini-Marquee que esta o slot do jogo.
 
 Com a falta dessa placa no mercado e as que achava todas destruidas resolvi dar uma estudada no esquema eletrico e ver seu funcionamento.
 resolvi tentar emular estas funções no Arduino.
+</td>
+</tr>
+</table>
 
 ### Hardware Compativeis
 
