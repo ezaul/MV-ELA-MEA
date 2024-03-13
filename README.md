@@ -1,4 +1,4 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# ![WebApp](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/marque.jpg)
 # MV-ELA-MEA
 <table>
 <tr>
@@ -11,7 +11,7 @@
 ### MV-ELA Original
 Aqui segue a Foto 
 
-![](https://github.com/ezaul/MV-ELA-MEA/images/)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/Mv-ela_top.jpg)
 
 MV-ELA era placa externa fornecida com cabines MVS multi-slot originais para gerar alta tensão e comutá-la para a(s) placa(s) MV-ELC ou MV-ELD da marquise.
 Quanto voce seleciona o jogo ele ilumina o MVS Mini-Marquee que esta o slot do jogo.
@@ -44,26 +44,27 @@ Isso envia os dados para alternar o MVS Mini-Marquee usando sinais binários.
 ### Arduino Pro Micro ATmega32U4 5V
 
 Esquema da Placa Arduino
-![](https://github.com/ezaul/MV-ELA-MEA/images/)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/Arduino-Leonardo.jpeg)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-01.jpg)
 Pinos que sera usados
-![](https://github.com/ezaul/MV-ELA-MEA/images/)
-![](https://github.com/ezaul/MV-ELA-MEA/images/)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-02.jpg)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-03.jpg)
 
 Utilizei um arduino para ler a porta, você precisara usar o resistor INPUT_PULLUP interno e conectar cada porta a uma entrada digital.
 
 ### Cabos e Conexões
 
 Cabos
-![](https://github.com/ezaul/MV-ELA-MEA/images/)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-04.jpg)
 Conexões
-![](https://github.com/ezaul/MV-ELA-MEA/images/)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-05.jpg)
 
 ### Conectar NEO-GEO MV
 
 Conector MV
-![](https://github.com/ezaul/MV-ELA-MEA/images/)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-06.jpg)
 Conector Arduino
-![](https://github.com/ezaul/MV-ELA-MEA/images/)
+![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-07.jpg)
 
 
 ### Pinos
@@ -83,7 +84,7 @@ Portanto, se nenhum bit for definido, o MVS Mini-Marquee 1 deverá estar aceso.
 
 ### Fita de LED
 
-![](https://github.com/ezaul/MV-ELA-MEA/images/)
+![](https://github.com/ezaul/MV-ELA-MEA/images/mv-ela-mea-fitaled.jpg)
 
 Optei por utilizar uma fita de LED ws2812b que trabalha em 5v, neste modelo de fita LED. Cade LED possui um chip que voce pode programar para ligar, desligar e mudar as cores com uma
 simples linha de dados que passa por cada led. Então fiz 4 tiras de 11 Leds em cada caixa para isso basta ligar:
@@ -92,6 +93,9 @@ simples linha de dados que passa por cada led. Então fiz 4 tiras de 11 Leds em 
 22-33 = Letreiro 3
 33-44 = Letreiro 4
 
+### Video do Resultado
+
+![] (https://youtube.com/shorts/21-4Xfw-TaY?si=VGcggTetiOS5xVmh)
 
 ## [License](https://github.com/ezaul/MV-ELA-MEA/images/LICENSE.md)
 
