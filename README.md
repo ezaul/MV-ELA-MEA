@@ -47,7 +47,7 @@ Esquema da Placa Arduino
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/Arduino-Leonardo.jpeg)
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-01.jpg)
 
-###Pinos que sera usados
+### Pinos que sera usados
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-02.jpg)
 ![](https://github.com/ezaul/MV-ELA-MEA/blob/main/images/mv-ela-mea-03.jpg)
 
